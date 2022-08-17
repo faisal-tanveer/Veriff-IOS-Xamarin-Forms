@@ -1,5 +1,5 @@
 # Veriff Library Binding For Xamarin IOS 
-Veriff IOS SDK DLL Bindings
+
 Veriff Library IOS Latest Version v4.42.0 Bindings For Xamarin IOS Dll Files Are given in repository.</br> 
 You can use any Veriff function in your xamarin ios porject by referencing the dll file in your project.
 </br>
@@ -49,3 +49,6 @@ Add a new entitlement for NFC scanning, available since iOS 13. This new entitle
 </array>
 
 
+</br></br></br>
+<b>Veriff IOS SDK DLL Bindings</b><br>
+<b>veriff integration</b>
